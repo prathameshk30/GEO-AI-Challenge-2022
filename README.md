@@ -7,6 +7,6 @@ This repo contains the following attachments for GEO-AI competition 2022 by team
 
 ## NLP model Result:-
 
-<img src="https://user-images.githubusercontent.com/89546195/230789508-61fa2bf1-545b-4f6f-a017-8376ede97159.png" width=15% height=15%>
+<img src="https://user-images.githubusercontent.com/89546195/230789508-61fa2bf1-545b-4f6f-a017-8376ede97159.png" width=50% height=50%>
 
 
