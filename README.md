@@ -11,6 +11,7 @@ This repo contains the following attachments for GEO-AI competition 2022 by team
 
 ## MLOps Deployment
 <img src="C:\Users\prath\Downloads\GEO-AI.png" width=65% height=65%>
+"C:\Users\prath\Downloads\GEO-AI.png"
 
 
 
