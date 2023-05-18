@@ -1,4 +1,4 @@
-# Team-Patterns
+# Location Extraction from disaster related social media tweets
 This repo contains the following attachments for GEO-AI competition 2022 by team Patterns:-
 
 1) Code
