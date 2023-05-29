@@ -17,5 +17,9 @@ https://github.com/rsuwaileh/IDRISI/tree/main/LMR
 
 <img src="https://github.com/prathameshk30/GEO-AI-Challenge/assets/89546195/54baeebb-f699-4ce6-93cd-28fdcbadd48c"  width=65% height=65%>>
 
+## Checkout the FLAIR framework from hugginface
+
+https://huggingface.co/flair/ner-english
+
 
 
