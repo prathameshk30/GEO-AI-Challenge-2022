@@ -15,7 +15,7 @@ https://github.com/rsuwaileh/IDRISI/tree/main/LMR
 
 ## FLAIR -DeBERTa Hyperparameters
 
-<img src="https://github.com/prathameshk30/GEO-AI-Challenge/assets/89546195/415f87bb-94b7-413c-8ec1-e9132e01f415" width=65% height=65%>
+<img src="https://github.com/prathameshk30/GEO-AI-Challenge/assets/89546195/415f87bb-94b7-413c-8ec1-e9132e01f415" width=45% height=45%>
 
 
 ## Comparison of FLAIR (DeBERTa) model with IDRISI baseline models (BERT, CRF) from previous year
